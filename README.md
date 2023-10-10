@@ -5,10 +5,8 @@
 
 * Weaviate Resnet-50 Model Container with Intel GPU Support
 
-  Follow the instructions to build and run the Weaviate Resnet-50 img2vec model container provided in
-  ```
-  https://github.com/gsilva2016/i2v-pytorch-models
-  ```
+  Follow the instructions to build and run the Weaviate Resnet-50 img2vec model container provided in [https://github.com/gsilva2016/i2v-pytorch-models](https://github.com/gsilva2016/i2v-pytorch-models/tree/intel_gpu_support)
+  
   
 * Weaviate FastAPI/Uvicorn Web Server Container
 
